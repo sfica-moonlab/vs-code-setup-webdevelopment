@@ -89,7 +89,7 @@ Interesting:
 - **PHP Intelephense** / Intelephense is a high performance PHP language server packed full of essential features for productive PHP development.  
   _Ben Mewburn_ (https://github.com/bmewburn/vscode-intelephense) Freemium but feature with a [license](https://intelephense.com/)
   ​
-- **PHP Namespace Rosolver** / PHP Namespace Resolver can import and expand your class. You can also sort your imported classes by line length or in alphabetical order.  
+- **PHP Namespace Resolver** / PHP Namespace Resolver can import and expand your class. You can also sort your imported classes by line length or in alphabetical order.  
   _Mehedi Hassan_ (https://github.com/MehediDracula/PHP-Namespace-Resolver)
 
 ## Laravel
